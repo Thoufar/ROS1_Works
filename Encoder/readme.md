@@ -7,4 +7,4 @@ Encoder   Output A= Arduino pin 2
    max_range=total angle
    range=number of rotation.
 
- Youtube link:- https://www.youtube.com/watch?v=yVHLn0HyKhg&t=21s
+ 
